@@ -11,9 +11,6 @@ class AboutSection extends Component {
       <div>
         <Fullpage className="second">
           <div className="element" id="containerElement">
-            <Element name="firstInsideContainer">
-              first element inside container
-            </Element>
           </div>
           <h3>{data.sections[0].title}</h3>
           <div className="paragraphs">
