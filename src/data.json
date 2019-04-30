@@ -1,0 +1,60 @@
+{
+    "title": "Hello I'm Sahar",
+    "subtitle": "Front End Dev | Blogger | Researcher",
+    "links": {
+        "github":"https://github.com/iamsahar",
+        "linkedin":"https://www.linkedin.com/in/sahar-farahzad",
+        "twitter":""
+    }, 
+    "sections":[
+        {
+            "title": "About",
+            "items": [
+                {
+                    "type":"p",
+                    "content":"Greatly cottage thought fortune no mention he. Of mr certainty arranging am smallness by conveying. Him plate you allow built grave. Sigh sang nay sex high yet door game. She dissimilar was favourable unreserved nay expression contrasted saw. Past her find she like bore pain open. Shy lose need eyes son not shot. Jennings removing are his eat dashwood. Middleton as pretended listening he smallness perceived. Now his but two green spoil drift. "
+                }
+            ]
+        },
+        {
+            "title":"Skills",
+            "items": [
+                {
+                    "type":"card",
+                    "content": {
+                        "image":"images/react.png",
+                        "title":"React"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content": {
+                        "image":"images/javaScript.png",
+                        "title":"Javascript"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content": {
+                        "image":"images/HTML.png",
+                        "title":"HTML"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content": {
+                        "image":"images/CSS.png",
+                        "title":"CSS"
+                    }
+                }
+            ]
+        }
+    ],
+    "icons": {
+        "down": "images/down.png"
+    },
+    "pages": {
+        "title":"About",
+        "link": "./sections/AboutSection"
+    }
+}
