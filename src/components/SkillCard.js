@@ -14,7 +14,7 @@ class SkillCard extends Component {
           <h4>{skill.content.title}</h4>
         </div>
       </div>
-    );
+    ); 
   }
 }
 

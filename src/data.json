@@ -4,7 +4,7 @@
     "links": {
         "github":"https://github.com/iamsahar",
         "linkedin":"https://www.linkedin.com/in/sahar-farahzad",
-        "twitter":""
+        "twitter":"https://stackoverflow.com/story/s.farahzad"
     }, 
     "sections":[
         {
@@ -12,7 +12,7 @@
             "items": [
                 {
                     "type":"p",
-                    "content":"Greatly cottage thought fortune no mention he. Of mr certainty arranging am smallness by conveying. Him plate you allow built grave. Sigh sang nay sex high yet door game. She dissimilar was favourable unreserved nay expression contrasted saw. Past her find she like bore pain open. Shy lose need eyes son not shot. Jennings removing are his eat dashwood. Middleton as pretended listening he smallness perceived. Now his but two green spoil drift. "
+                    "content":"I'm Front End Developer who focuses on writing clean, elegant and efficient code and UI/UX Designer with a passion for designing beautiful and functional user experiences. When I'm not coding, you'll find me writing down my ideas, reading my favorite book or working out at the gym. I also like to blog and share what I learn."
                 }
             ]
         },
@@ -51,10 +51,21 @@
         }
     ],
     "icons": {
-        "down": "images/down.png"
+        "down": "images/down.png",
+        "Edit": "images/Edit.png"
     },
     "pages": {
         "title":"About",
         "link": "./sections/AboutSection"
-    }
+    },
+    "items": [
+        {
+            "title":"About",
+            "link": "./sections/AboutSection"
+        },
+        {
+            "title":"Skills",
+            "link": "./sections/SkillSection"
+        }
+    ] 
 }

@@ -6,7 +6,7 @@ import "./SkillSection.css";
 
 class SkillSection extends Component {
   render() {
-    return (
+    return ( 
       <Fullpage className="third">
         <h3>{data.sections[1].title}</h3>
         <div className="cards-wrapper">
