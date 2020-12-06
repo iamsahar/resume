@@ -10,13 +10,9 @@ class AboutSection extends Component {
     return (
       <div>
         <Fullpage className="second">
-          <div className="element" id="containerElement">
-          </div>
           <h3>{data.sections[0].title}</h3>
           <div className="paragraphs">
-            {data.sections[0].items.map(p => { 
-              return <p>{p.content}</p>;
-            })}
+            {data.sections[0].items.map((p) => {return <p>{p.content}</p>;})}
           </div>
         </Fullpage>
         <Link
@@ -28,10 +24,7 @@ class AboutSection extends Component {
           duration={300}
           delay={0}
         >
-          <DownIcon
-            icon={data.icons.down}
-            onClick={() => console.log("im working")}
-          />
+          <DownIcon icon={data.icons.down} />
         </Link>
         <Element name="skills" className="element" />
       </div>

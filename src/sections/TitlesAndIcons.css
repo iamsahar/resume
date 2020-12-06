@@ -1,9 +1,11 @@
 .first {
-  background-color: #1e0f70;
+  background-color:#1A237E;
   color: white;
 }
+
 .icon {
-  margin: 10px;
+  padding: 20px;
+  margin: 20px;
   color: white;
 }
 

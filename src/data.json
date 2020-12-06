@@ -1,6 +1,6 @@
 {
     "title": "Hello I'm Sahar",
-    "subtitle": "Front End Dev | Blogger | Researcher",
+    "subtitle": "Full Stack Dev | FrontEnd(React) | BackEnd(Django)",
     "links": {
         "github":"https://github.com/iamsahar",
         "linkedin":"https://www.linkedin.com/in/sahar-farahzad",
@@ -12,13 +12,27 @@
             "items": [
                 {
                     "type":"p",
-                    "content":"I'm Front End Developer who focuses on writing clean, elegant and efficient code and UI/UX Designer with a passion for designing beautiful and functional user experiences. When I'm not coding, you'll find me writing down my ideas, reading my favorite book or working out at the gym. I also like to blog and share what I learn."
+                    "content":"I am always energetic and eager to learn new skills and I have experience working as part of a team. I am hardworking and always the last to leave the office in the evening and I am flexible in my working hours, being able to work evenings and weekends."
                 }
             ]
         },
         {
             "title":"Skills",
             "items": [
+                {
+                    "type":"card",
+                    "content": {
+                        "image":"images/django.png",
+                        "title":"Django"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content": {
+                        "image":"images/python.png",
+                        "title":"Python"
+                    }
+                },
                 {
                     "type":"card",
                     "content": {

@@ -1,11 +1,13 @@
+.second {
+  background-color: #00796B;
+  color: white;
+}
+
 p {
-    padding-right: 100px;
-    padding-left: 100px;
-  }
-  .second {
-    background-color: #9933ff;
-    color: white;
-  }
-  h3 {
-    font-size: 3rem;
-  }
+  padding-right: 40px;
+  padding-left: 40px;
+}
+
+h3 {
+  font-size: 3rem;
+}
